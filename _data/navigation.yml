@@ -7,6 +7,8 @@ main:
     url: /tags/
   - title: "Assignment1"
     url: /about/
+  - title: "Assignment2"
+    url: /assignment2/
   - title: "Digital Literacy Narrative F23"
     url: /DLN/
   - title: "Assignments"
